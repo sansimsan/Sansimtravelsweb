@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/TORONTO/TORONTO.jpg");
+    background-image: url("./TORONTO/TORONTO.jpg");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/TORONTO/CN\ Tower\ TORONTO.jpg');
+    background-image: url('./TORONTO/CN\ Tower\ TORONTO.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/TORONTO/Royal\ Ontario\ Museum\ TORONNTO.jpg');
+    background-image: url('./TORONTO/Royal\ Ontario\ Museum\ TORONNTO.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/TORONTO/Toronto\ Islands\ TORONTO.jpg');
+    background-image: url('./TORONTO/Toronto\ Islands\ TORONTO.jpg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/TORONTO/Art\ Gallery\ of\ Ontario\ \(AGO\)\ TORONTO.jpg");
+    background-image: url("./TORONTO/Art\ Gallery\ of\ Ontario\ \(AGO\)\ TORONTO.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/TORONTO/Fairmont\ Royal\ York\ \ HOTEL.jpg");
+    background-image: url("./TORONTO/Fairmont\ Royal\ York\ \ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/TORONTO/The\ Ritz-Carlton\,\ Toronto\ HOTEL.jpg");
+    background-image: url("./TORONTO/The\ Ritz-Carlton\,\ Toronto\ HOTEL.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/TORONTO/Four\ Seasons\ Hotel\ Toronto\ HOTEL.jpg");
+    background-image: url("./TORONTO/Four\ Seasons\ Hotel\ Toronto\ HOTEL.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/TORONTO/Shangri-La\ Hotel\ Toronto\ HOTEL.jpg");
+    background-image: url("./TORONTO/Shangri-La\ Hotel\ Toronto\ HOTEL.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -212,43 +212,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/TORONTO/Peameal\ Bacon\ Sandwich\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Peameal\ Bacon\ Sandwich\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/TORONTO/Butter\ Tart\ CUISINE.jpg");
+    background-image: url("./TORONTO/Butter\ Tart\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/TORONTO/Poutine\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Poutine\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/TORONTO/Jerk\ Chicken\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Jerk\ Chicken\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/TORONTO/Korean\ Fried\ Chicken\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Korean\ Fried\ Chicken\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/TORONTO/Pho\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Pho\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/TORONTO/Roti\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Roti\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/TORONTO/Bao\ \ CUISINE.jpg");
+    background-image: url("./TORONTO/Bao\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/TORONTO/Dim\ Sum\ CUISINE.jpg");
+    background-image: url("./TORONTO/Dim\ Sum\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/TORONTO/Shawarma\ CUISINE.jpg");
+    background-image: url("./TORONTO/Shawarma\ CUISINE.jpg");
     background-size: cover;
 }
 
@@ -286,39 +286,39 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/TORONTO/CN\ Tower\ EdgeWalk\ \ ADVEN.jpg");
+    background-image: url("./TORONTO/CN\ Tower\ EdgeWalk\ \ ADVEN.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/TORONTO/Toronto\ Islands\ Kayaking\ and\ Biking\ ADVEN.jpg");
+    background-image: url("./TORONTO/Toronto\ Islands\ Kayaking\ and\ Biking\ ADVEN.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/TORONTO/Helicopter\ Tour\ ADVEN.jpg");
+    background-image: url("./TORONTO/Helicopter\ Tour\ ADVEN.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/TORONTO/High\ Park\ Hiking\ ADVEN.jpg");
+    background-image: url("./TORONTO/High\ Park\ Hiking\ ADVEN.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/TORONTO/Scuba\ Diving\ at\ Humber\ Bay\ ADVEN.jpg");
+    background-image: url("./TORONTO/Scuba\ Diving\ at\ Humber\ Bay\ ADVEN.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/TORONTO/Paddling\ the\ Humber\ River\ ADVEN.jpg");
+    background-image: url("./TORONTO/Paddling\ the\ Humber\ River\ ADVEN.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/TORONTO/Rock\ Climbing\ at\ Basecamp\ Climbing\ ADVEN.jpg");
+    background-image: url("./TORONTO/Rock\ Climbing\ at\ Basecamp\ Climbing\ ADVEN.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/TORONTO/ycling\ in\ Don\ Valley\ Trails\ \ ADVEN.jpg");
+    background-image: url("./TORONTO/ycling\ in\ Don\ Valley\ Trails\ \ ADVEN.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/TORONTO/Snowshoeing\ and\ Cross-Country\ Skiing\ in\ the\ GTA\ ADVEN.jpg");
+    background-image: url("./TORONTO/Snowshoeing\ and\ Cross-Country\ Skiing\ in\ the\ GTA\ ADVEN.jpg");
 }
 
 .adventuresImg10{
-    background-image: url("./assets/TORONTO/Explore\ Rouge\ National\ Urban\ Park\ \ ADVEN.jpg");
+    background-image: url("./TORONTO/Explore\ Rouge\ National\ Urban\ Park\ \ ADVEN.jpg");
 }
