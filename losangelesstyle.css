@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/losangeles/LOS\ ANGELES.jpg");
+    background-image: url("./losangeles/LOS\ ANGELES.jpg");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/losangeles/Hollywood\ Sign\ LOSANGELES.jpg');
+    background-image: url('./losangeles/Hollywood\ Sign\ LOSANGELES.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/losangeles/Disneyland\ LOSANGEES.jpg');
+    background-image: url('./losangeles/Disneyland\ LOSANGEES.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/losangeles/Venice\ Beach\ LOSANGELES.jpg');
+    background-image: url('./losangeles/Venice\ Beach\ LOSANGELES.jpg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/losangeles/os\ Angeles\ County\ Museum\ of\ Art\ \(LACMA\)\ \ LOSANGELES.jpg");
+    background-image: url("./losangeles/os\ Angeles\ County\ Museum\ of\ Art\ \(LACMA\)\ \ LOSANGELES.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/losangeles/The\ Beverly\ Hills\ Hotel\ HOTEL.jpg");
+    background-image: url("./losangeles/The\ Beverly\ Hills\ Hotel\ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/losangeles/Chateau\ Marmont\ HOTEL.jpg");
+    background-image: url("./losangeles/Chateau\ Marmont\ HOTEL.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/losangeles/The\ Peninsula\ Beverly\ Hills\ HOTEL.jpg");
+    background-image: url("./losangeles/The\ Peninsula\ Beverly\ Hills\ HOTEL.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/losangeles/Fairmont\ Century\ Plaza\ HOTEL.jpg");
+    background-image: url("./losangeles/Fairmont\ Century\ Plaza\ HOTEL.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -212,43 +212,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/losangeles/French\ Dip\ Sandwich\ CUISINE.jpg");
+    background-image: url("./losangeles/French\ Dip\ Sandwich\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/losangeles/Street\ Tacos\ \ CUISINE.jpg");
+    background-image: url("./losangeles/Street\ Tacos\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/losangeles/California\ Roll\ \ CUISINE.jpg");
+    background-image: url("./losangeles/California\ Roll\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/losangeles/In-N-Out\ Burger\ CUISINE.jpg");
+    background-image: url("./losangeles/In-N-Out\ Burger\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/losangeles/Avocado\ Toast\ \ CUISINE.jpg");
+    background-image: url("./losangeles/Avocado\ Toast\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/losangeles/Korean\ BBQ\ \ CUISINE.jpg");
+    background-image: url("./losangeles/Korean\ BBQ\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/losangeles/Breakfast\ Burrito\ \ CUISINE.jpg");
+    background-image: url("./losangeles/Breakfast\ Burrito\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/losangeles/Birria\ Tacos\ CUISINE.jpg");
+    background-image: url("./losangeles/Birria\ Tacos\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/losangeles/Chili\ Cheese\ Dog\ \ CUISISNE.jpg");
+    background-image: url("./losangeles/Chili\ Cheese\ Dog\ \ CUISISNE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/losangeles/Acai\ Bowl\ CUISINE.jpg");
+    background-image: url("./losangeles/Acai\ Bowl\ CUISINE.jpg");
     background-size: cover;
 }
 
@@ -286,39 +286,39 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/losangeles/Hiking\ to\ Griffith\ Observatory\ \ ADVENTURE.jpg");
+    background-image: url("./losangeles/Hiking\ to\ Griffith\ Observatory\ \ ADVENTURE.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/losangeles/Surfing\ at\ Malibu\ ADVENTURE.jpg");
+    background-image: url("./losangeles/Surfing\ at\ Malibu\ ADVENTURE.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/losangeles/Zip\ Lining\ at\ La\ Jolla\ Zip\ Zoom\ ADVENTURE.jpg");
+    background-image: url("./losangeles/Zip\ Lining\ at\ La\ Jolla\ Zip\ Zoom\ ADVENTURE.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/losangeles/Universal\ Studios\ Hollywood\ \ ADVENTURE.jpg");
+    background-image: url("./losangeles/Universal\ Studios\ Hollywood\ \ ADVENTURE.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/losangeles/Hot\ Air\ Balloon\ Ride\ in\ Temecula\ \ ADVENTURE.jpg");
+    background-image: url("./losangeles/Hot\ Air\ Balloon\ Ride\ in\ Temecula\ \ ADVENTURE.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/losangeles/Escape\ Rooms\ \ ADVENTURE.jpg");
+    background-image: url("./losangeles/Escape\ Rooms\ \ ADVENTURE.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/losangeles/iking\ along\ the\ Strand\ ADVENTURE.jpg");
+    background-image: url("./losangeles/iking\ along\ the\ Strand\ ADVENTURE.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/losangeles/ock\ Climbing\ at\ Joshua\ Tree\ ADVENTURE.jpg");
+    background-image: url("./losangeles/ock\ Climbing\ at\ Joshua\ Tree\ ADVENTURE.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/losangeles/Santa\ Monica\ Pier\ and\ Beach\ Activities\ ADVENTURE.jpg");
+    background-image: url("./losangeles/Santa\ Monica\ Pier\ and\ Beach\ Activities\ ADVENTURE.jpg");
 }
 
 .adventuresImg10{
-    background-image: url("./assets/losangeles/Horseback\ Riding\ in\ Griffith\ Park.jpg");
+    background-image: url("./losangeles/Horseback\ Riding\ in\ Griffith\ Park.jpg");
 }
