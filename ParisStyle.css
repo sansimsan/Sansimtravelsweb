@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/PARIS/EFFIEL\ TOWER.jpg');
+    background-image: url('./PARIS/EFFIEL\ TOWER.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/PARIS/LOUVRE\ MUSEUM\ PARIS.webp');
+    background-image: url('./PARIS/LOUVRE\ MUSEUM\ PARIS.webp');
 }
 
 .attractionsOpts3{
-    background-image: url('/assets/PARIS/MONTEMARTE\ Paris.jpeg');
+    background-image: url('/PARIS/MONTEMARTE\ Paris.jpeg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/PARIS/Notre-Dame\ Cathedral\ PARIS.webp");
+    background-image: url("./PARIS/Notre-Dame\ Cathedral\ PARIS.webp");
 }
 .hotelOpts1{
-    background-image: url("./assets/PARIS/RITZ\ Paris.jpg");
+    background-image: url("./PARIS/RITZ\ Paris.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/PARIS/LE\ MEURICE\ PARIS.jpg");
+    background-image: url("./PARIS/LE\ MEURICE\ PARIS.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/PARIS/HOTEL\ PLAZA\ ATHENE.jpg");
+    background-image: url("./PARIS/HOTEL\ PLAZA\ ATHENE.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/PARIS/SHANGRI-LA\ Paris.jpg");
+    background-image: url("./PARIS/SHANGRI-LA\ Paris.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -212,43 +212,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/PARIS/CHARCUTERIE\ Cuisine.jpg");
+    background-image: url("./PARIS/CHARCUTERIE\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/PARIS/COQ\ AU\ VIN\ \ \ Cuisine.jpg");
+    background-image: url("./PARIS/COQ\ AU\ VIN\ \ \ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/PARIS/BOEUF\ BOURGUIGNON\ Cuisine.jpg");
+    background-image: url("./PARIS/BOEUF\ BOURGUIGNON\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/PARIS/DUCK\ CONFIT\ Cuisine.jpg");
+    background-image: url("./PARIS/DUCK\ CONFIT\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/PARIS/CROISSANT\ Cuisine.jpg");
+    background-image: url("./PARIS/CROISSANT\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/PARIS/BAGUETTE\ Cuisine.jpg");
+    background-image: url("./PARIS/BAGUETTE\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/PARIS/MACARON\ Cuisine.jpg");
+    background-image: url("./PARIS/MACARON\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/PARIS/ECLAIR\ Cuisine.jpg");
+    background-image: url("./PARIS/ECLAIR\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/PARIS/FROMAGE\ Cuisine.jpg");
+    background-image: url("./PARIS/FROMAGE\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/PARIS/CREPES\ Cuisine.jpg");
+    background-image: url("./PARIS/CREPES\ Cuisine.jpg");
     background-size: cover;
 }
 
@@ -286,39 +286,39 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/PARIS/Rock\ Climbing\ in\ Buttes-Chaumont\ Park\ ADVENTURE.jpg");
+    background-image: url("./PARIS/Rock\ Climbing\ in\ Buttes-Chaumont\ Park\ ADVENTURE.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/PARIS/Hot\ Air\ Balloon\ Rides\ at\ Parc\ André\ Citroën\ ADVENTURE.jpg");
+    background-image: url("./PARIS/Hot\ Air\ Balloon\ Rides\ at\ Parc\ André\ Citroën\ ADVENTURE.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/PARIS/Seine\ River\ Kayaking\ or\ Boat\ Tours\ ADVENTURE.jpg");
+    background-image: url("./PARIS/Seine\ River\ Kayaking\ or\ Boat\ Tours\ ADVENTURE.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/PARIS/Paragliding\ at\ Fontainebleau\ ADVENTURE.jpg");
+    background-image: url("./PARIS/Paragliding\ at\ Fontainebleau\ ADVENTURE.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/PARIS/Zip-lining\ at\ Parc\ de\ la\ Villette\ ADVENTUURE.jpg");
+    background-image: url("./PARIS/Zip-lining\ at\ Parc\ de\ la\ Villette\ ADVENTUURE.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/PARIS/Climb\ the\ Eiffel\ Tower\ \ ADVEN.jpg");
+    background-image: url("./PARIS/Climb\ the\ Eiffel\ Tower\ \ ADVEN.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/PARIS/Underground\ Exploration\ in\ the\ Catacombs\ \ ADVEN.jpg");
+    background-image: url("./PARIS/Underground\ Exploration\ in\ the\ Catacombs\ \ ADVEN.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/PARIS/Montmartre\ Street\ Art\ Tour\ \ ADVEN.jpg");
+    background-image: url("./PARIS/Montmartre\ Street\ Art\ Tour\ \ ADVEN.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/PARIS/Segway\ Tours\ \ ADVEN.jpg");
+    background-image: url("./PARIS/Segway\ Tours\ \ ADVEN.jpg");
 }
 
 .adventuresImg10{
-    background-image: url("./assets/PARIS/Cycling\ along\ Canal\ Saint-Martin\ \ ADVEN.jpg");
+    background-image: url("./PARIS/Cycling\ along\ Canal\ Saint-Martin\ \ ADVEN.jpg");
 }
