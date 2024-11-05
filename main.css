@@ -1,0 +1,388 @@
+/* General Reset and Base Styles */
+body {
+    margin: 0;
+    background-color: #FDFEFE;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Navigation Bar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    background-image:url("./assets/wallpaper33.jpg");
+    padding: 20px 0 0 0;
+}
+
+.navBar {
+    width: 80vw;
+    display: flex;
+    justify-content: end;
+}
+
+.navbarOpts {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    width: 15em;
+    border: 2px solid #606376;
+    border-radius: 10px;
+    color: white;
+    background-color: #1B2546;
+    position: relative;
+}
+
+.dropdown {
+    width: 14em;
+    position: absolute;
+    top: 70px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(131, 131, 179);
+    padding: 10px;
+    border-radius: 10px;
+    line-height: 1.5;
+}
+
+/* Dropdown Hover */
+.destinationsDropdown {
+    right: 5em;
+    visibility: hidden;
+}
+
+.destinationsNav:hover{
+    height: 450px;
+}
+
+.destinationsNav:hover .destinationsDropdown {
+    visibility: visible;
+    z-index: 10;
+}
+
+#logo {
+    width: 100px;
+}
+
+#userId {
+    width: 30px;
+    height: 30px;
+    font-weight: 600;
+    margin: 20px;
+}
+
+/* Full-Screen Slider */
+.DestinationsCarousel {
+    width: 100vw;
+    height: 100vh;
+    border: 2px solid black;
+    position: relative;
+    margin: auto;
+    z-index: 0;
+    overflow: hidden;
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    transition: 1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    z-index: 0;
+}
+
+/* Slide Content */
+.cityTitle {
+    color: white;
+    font-size: 5em;
+    font-weight: 600;
+}
+
+.cityLine {
+    color: white;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.knowMoreDestination {
+    padding: 10px;
+    background-color: #ffffff44;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    border: 2px solid white;
+}
+
+/* Slide Backgrounds */
+.slide1 {
+    background-image: url("./assets/AMSTERDAM/Amsterdam.jpg");
+}
+
+.slide2 {
+    background-image: url("./assets/BANGKOK/BANGKOK.jpg");
+}
+
+.slide3 {
+    background-image: url("./assets/BARCELONA/BARCELONA.webp");
+}
+
+.slide4 {
+    background-image: url("./assets/BEIJING_CHINA/Beijing china.jpg");
+}
+
+.slide5 {
+    background-image: url("./assets/DUBAI/DUBAI.jpg");
+}
+
+.slide6 {
+    background-image: url("./assets/LONDON/LONDON.jpg");
+}
+
+.slide7 {
+    background-image: url("./assets/losangeles/LOS ANGELES.jpg");
+}
+
+.slide8 {
+    background-image: url("./assets/MUMBAI/MUMBAI.jpg");
+}
+
+.slide9 {
+    background-image: url("./assets/NEWYORK/NEWYORK.webp");
+}
+
+.slide10 {
+    background-image: url("./assets/PARIS/PARIS.jpg");
+}
+
+.slide11 {
+    background-image: url("./assets/ROME/rome222.jpg");
+}
+
+.slide12 {
+    background-image: url("./assets/SEOUL/SEOUL.jpg");
+}
+
+.slide13 {
+    background-image: url("./assets/SINGAPORE/SINGAPORE.jpg");
+}
+
+.slide14 {
+    background-image: url("./assets/SYDNEY/SYDNEY.jpg");
+}
+
+.slide15 {
+    background-image: url("./assets/TORONTO/TORONTO.jpg");
+}
+
+/* Control Buttons */
+.controlDestinationBtn {
+    position: absolute;
+    z-index: 5;
+    top: 50vh;
+    background-color: #ffffffbb;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.prevDestination {
+    left: 10px;
+}
+
+.nextDestination {
+    right: 30px;
+}
+
+.attractionsSec{
+    height: 200px;
+}
+
+.attractionsSec h3{
+    font-size: 6em;
+    margin-top: 30px;
+}
+
+.attractionsSec h4{
+    font-size: 3em;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.attractionsCarousel{
+    margin: auto;
+    width: 100vw;
+    height: 440px;
+    display:flex;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.attractionsCard{
+    border: 2px solid black;
+    width: 370px;
+    margin-left: 15px;
+    margin-right: 15px;
+    transition: 1s;
+    position: absolute;
+    left: 10px;
+}
+
+.attractionsCard a{
+    color: black;
+    text-decoration: none;
+}
+
+.placeImg{
+    width: 340px;
+    height: 340px;
+    border: 2px solid black;
+    margin: 15px;
+}
+.controlAttractionBtn {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 10px;
+    z-index: 5;
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.prevAttraction{
+    left: 0px;
+}
+
+.nextAttraction{
+    right: 30px;
+}
+
+.experiencesSec{
+    height: 200px;
+}
+
+.experiencesSec h3{
+    font-size: 6em;
+    margin-top: 30px;
+}
+
+.experiencesSec h4{
+    font-size: 3em;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.experiencesCarousel{
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    width: 100vw;
+    height: 360px;
+}
+
+.experiencesCard{
+    border: 2px solid black;
+    width: 440px;
+    height: 300px;
+    margin: 10px;
+    padding: 20px;
+    transition: 1s;
+    position: absolute;
+    left: 10px;
+}
+
+.controlExpBtn {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 10px;
+    z-index: 5;
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.prevExperience{
+    left: 0px;
+}
+
+.nextExperience{
+    right: 30px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    background-color: pink;
+}
+
+.followUs{
+    font-size: 1.5em;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+footer a{
+    color: black;
+    font-size: 1.4em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.feedbackForm{
+    width: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.feedback{
+    font-size: 1.5em;
+}
+
+.rating{
+    list-style-type: none;
+    display: flex;
+}
+
+.rating li{
+    margin: 5px;
+    font-size: 1.4em;
+}
+
+.sendIcon{
+    margin: 25px;
+    font-size: 1.4em;
+}
+

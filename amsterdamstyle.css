@@ -1,0 +1,325 @@
+*{
+    font-family: "Montserrat",sans-serif;
+    text-align: center;
+}
+
+body{
+    margin: 0;
+}
+
+.cityIntro{
+    background-image: url("./assets/AMSTERDAM/Amsterdam.jpg");
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 650px;
+}
+
+.cityName{
+    font-size: 12em;
+    color: white;
+    margin: 0;
+    padding-top: 30vh;
+}
+
+.cityDescSec{
+    position:absolute;
+    top: 550px;
+    display:flex;
+}
+
+.cityQuote{
+    text-align: start;
+    font-size: 2.5em;
+    margin-left: 50px;
+    margin-top: 200px;
+}
+
+.cityDesc{
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align:justify;
+    font-weight: 500;
+    font-size: 1.2em;
+    line-height: 1.25;
+}
+
+.cityHeadSec{
+    padding: 15px 0px;
+    background-color: rgb(230, 202, 207);
+}
+
+.cityHeading{
+    font-size: 7em;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.citySubHeading{
+    font-size: 2em;
+    font-weight: 300;
+    margin-top:0;
+    margin-bottom: 30px;
+}
+
+.attractionsCarousel,.hotelCarousel{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin-bottom:25px;
+}
+
+.attractionsBox,.hotelBox{
+    padding:5px;
+    border:2px solid black;
+}
+
+.attractionsBox:hover,.hotelBox:hover{
+    scale:1.1;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.attractionsOpts,.hotelOpts{
+    width: 20vw;
+    height: 25vh;
+    border: 2px solid black;
+    margin-bottom: 25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+.attractionsName,.hotelName{
+    color: black;
+    font-size: large;
+}
+
+.attractionsOpts1{
+    background-image: url('./assets/AMSTERDAM/Rijksmuseum\ AMSTERDAM.jpg');
+}
+
+.attractionsOpts2{
+    background-image: url('./assets/AMSTERDAM/Van\ Gogh\ Museum\ AMSTERDAM.jpg');
+}
+
+.attractionsOpts3{
+    background-image: url('./assets/AMSTERDAM/Anne\ Frank\ House\ AMSTERDAM.jpg');
+}
+
+.attractionsOpts4{
+    background-image: url("./assets/AMSTERDAM/Canal\ Ring\ \(Grachtengordel\)\ AMSTERDAM.jpg");
+}
+.hotelOpts1{
+    background-image: url("./assets/AMSTERDAM/Hotel\ Pulitzer\ HOTEL.jpg");
+}
+.hotelOpts2{
+    background-image: url("./assets/AMSTERDAM/The\ Dylan\ Amsterdam\ HOTEL.jpg");
+}
+.hotelOpts3{
+    background-image: url("./assets/AMSTERDAM/onservatorium\ Hotel\ \ HOTEL.jpg");
+}
+.hotelOpts4{
+    background-image: url("./assets/AMSTERDAM/Andaz\ Amsterdam\ Prinsengracht\ HOTEL.jpg");
+}
+
+
+.restaurantsCarousel{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 76vw;
+    margin-left: 12vw;
+}
+
+.restaurantsBox{
+    margin-bottom: 20px;
+    margin-left: 40px;
+    height: 70vh;
+    min-width: 1325px;
+    width: 100%;
+    border: 2px solid transparent;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.restaurantsImg{
+    width: 50%;
+}
+
+.restaurantsInfo{
+    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-size:contain;
+    width: 70%;
+    margin-left: 20px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.restaurantsName{
+    padding-top: 100px;
+    padding-left: 85px;
+    width: 70%;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.restaurantsDesc{
+    text-align:start;
+    font-size: large;
+    width: 70%;
+    margin-left: 110px;
+}
+
+
+.CuisinesCarousel{
+    background-image: url("./assets/wallpaper22.jpg");
+    background-size:cover;
+    height: 50vh;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 25vh 0 25vh 0;
+}
+
+.cuisineName{
+    display: none;
+    font-size: 2em;
+    font-weight: 500;
+    background-color: white;
+}
+
+.cuisinesImg{
+    border-radius: 50%;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuisinesImg:hover{
+    .cuisineName{
+        display:block;
+    }
+}
+
+.cuisinesImg1{
+    background-image: url("./assets/AMSTERDAM/Stroopwafel\ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg2{
+    background-image: url("./assets/AMSTERDAM/Bitterballen\ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg3{
+    background-image: url("./assets/AMSTERDAM/Poffertjes\ \ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg4{
+    background-image: url("./assets/AMSTERDAM/Haring\ \(Dutch\ Herring\)\ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg5{
+    background-image: url("./assets/AMSTERDAM/Kibbeling\ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg6{
+    background-image: url("./assets/AMSTERDAM/Patatje\ Oorlog\ \ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg7{
+    background-image: url("./assets/AMSTERDAM/Rookworst\ \ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg8{
+    background-image: url("./assets/AMSTERDAM/Stamppot\ \ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg9{
+    background-image: url("./assets/AMSTERDAM/Kaassoufflé\ \ CUISINE.jpg");
+    background-size: cover;
+}
+.cuisinesImg10{
+    background-image: url("./assets/AMSTERDAM/Oliebollen\ \ CUISINE.jpg");
+    background-size: cover;
+}
+
+.adventuresCarousel{
+    background-image: url("./assets/wallpaper\ travel1.jpg");
+    height: 50vh;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 25vh 0 25vh 0;
+}
+
+.adventureName{
+    display: none;
+    font-size: 2em;
+    font-weight: 500;
+    background-color: white;
+}
+
+.adventuresImg{
+    margin: 20px;
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+.adventuresImg:hover{
+    .adventureName{
+        display:block;
+    }
+}
+
+.adventuresImg1{
+    background-image: url("./assets/AMSTERDAM/Canal\ Biking\ ADVEN.jpg");
+}
+.adventuresImg2{
+    background-image: url("./assets/AMSTERDAM/A’dam\ Lookout\ and\ Over\ The\ Edge\ Swing\ ADVEN.jpg");
+}
+
+.adventuresImg3{
+    background-image: url("./assets/AMSTERDAM/Indoor\ Skiing\ at\ SnowWorld\ ADVEN.jpg");
+}
+
+.adventuresImg4{
+    background-image: url("./assets/AMSTERDAM/ycling\ to\ the\ Dutch\ Countryside\ \ ADVEN.jpg");
+}
+.adventuresImg5{
+    background-image: url("./assets/AMSTERDAM/RIB\ Boat\ Tours\ ADVEN.jpg");
+}
+
+.adventuresImg6{
+    background-image: url("./assets/AMSTERDAM/Ziplining\ at\ Fun\ Forest\ Amsterdam\ ADVEN.jpg");
+}
+
+.adventuresImg7{
+    background-image: url("./assets/AMSTERDAM/Bungee\ Jumping\ in\ Scheveningen\ ADVEN.jpg");
+}
+
+.adventuresImg8{
+    background-image: url("./assets/AMSTERDAM/Explore\ the\ Red\ Light\ District\ with\ a\ Local\ Guide\ \ ADVEN.jpg");
+}
+
+.adventuresImg9{
+    background-image: url("./assets/AMSTERDAM/Stand-Up\ Paddleboarding\ \(SUP\)\ in\ the\ Canals\ \ ADVEN.jpg");
+}
+
+.adventuresImg10{
+    background-image: url("./assets/AMSTERDAM/Hot\ air\ balloon\ over\ countryside.jpg");
+}

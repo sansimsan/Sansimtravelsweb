@@ -1,0 +1,41 @@
+body{
+    margin:0
+}
+
+*{
+    text-align: center;
+}
+
+.mainContainer{
+    padding: 30px;
+    margin-left: 30vw;
+    margin-top: 20vh;
+    width: 40vw;
+    border: 2px solid black;
+}
+
+.rating{
+    display:none;
+}
+
+/* Hide the original checkbox */
+.rating{
+    display: none;
+}
+
+/* Style the custom icon */
+.custom-checkbox .checkbox-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('unchecked-icon.png'); /* Replace with your unchecked icon */
+    background-size: cover;
+    margin-right: 8px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+/* Change icon when checkbox is checked */
+.custom-checkbox input[type="checkbox"]:checked + .checkbox-icon {
+    background-image: url('checked-icon.png'); /* Replace with your checked icon */
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sansim Signin</title>
+    <link rel="stylesheet" href="./signin.css">
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+    <div class="mainContainer">
+        <form>
+            <label for="name">Name: </label>
+            <br>
+            <input type="text" name="name" id="name" required>
+            <br><br>
+            <label for="rating">Rating: </label>
+            <br>
+            <input type="number" name="rating" min="1" max="5" id="rating">
+            <button>Submit</button>
+        </form>
+    </div>
+</body>
+<script src="./signin.js"></script>
+</html>
