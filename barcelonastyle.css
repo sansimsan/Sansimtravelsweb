@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/BARCELONA/BARCELONA.webp");
+    background-image: url("./BARCELONA/BARCELONA.webp");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,32 +98,32 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/BARCELONA/Sagrada\ Familia\ BARCELONA.jpg');
+    background-image: url('./BARCELONA/Sagrada\ Familia\ BARCELONA.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/BARCELONA/Park\ Güell\ BARCELONA.jpg');
+    background-image: url('./BARCELONA/Park\ Güell\ BARCELONA.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/BARCELONA/La\ Rambla\ BARCELONA.jpeg');
+    background-image: url('./BARCELONA/La\ Rambla\ BARCELONA.jpeg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/BARCELONA/Gothic\ Quarter\ \(Barri\ Gòtic\)\ BARCELONA.jpg");
+    background-image: url("./BARCELONA/Gothic\ Quarter\ \(Barri\ Gòtic\)\ BARCELONA.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/BARCELONA/Casa\ fuster\ HOTEL.jpg");
+    background-image: url("./BARCELONA/Casa\ fuster\ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/BARCELONA/Hotel\ Arts\ Barcelona.jpg");
+    background-image: url("./BARCELONA/Hotel\ Arts\ Barcelona.jpg");
 }
 
 .hotelOpts3{
-    background-image: url("./assets/BARCELONA/Mandarin\ Oriental\ Barcelona\ HOTEL.webp");
+    background-image: url("./BARCELONA/Mandarin\ Oriental\ Barcelona\ HOTEL.webp");
 }
 .hotelOpts4{
-    background-image: url("./assets/BARCELONA/Cotton\ House\ Hotel.webp");
+    background-image: url("./BARCELONA/Cotton\ House\ Hotel.webp");
 }
 
 
@@ -153,7 +153,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -213,43 +213,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/BARCELONA/Escalivada\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Escalivada\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/BARCELONA/Botifarra\ amb\ mongetes\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Botifarra\ amb\ mongetes\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/BARCELONA/Patatas\ Bravas\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Patatas\ Bravas\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/BARCELONA/Croquetas\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Croquetas\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/BARCELONA/Suquet\ de\ Peix\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Suquet\ de\ Peix\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/BARCELONA/Paella\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Paella\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/BARCELONA/Fideuà\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Fideuà\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/BARCELONA/Escalivada\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Escalivada\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/BARCELONA/Churros\ with\ Chocolate\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Churros\ with\ Chocolate\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/BARCELONA/Cava\ CUISINE.jpg");
+    background-image: url("./BARCELONA/Cava\ CUISINE.jpg");
     background-size: cover;
 }
 .adventuresCarousel{
@@ -286,41 +286,41 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/BARCELONA/Scuba\ Diving\ in\ Costa\ Brava\ ADVENTURE.jpg");
+    background-image: url("./BARCELONA/Scuba\ Diving\ in\ Costa\ Brava\ ADVENTURE.jpg");
 
 }
 .adventuresImg2{
-    background-image: url("./assets/BARCELONA/Kayaking\ and\ Snorkeling\ in\ Costa\ Brava\ ADVENTURE.jpg");
+    background-image: url("./BARCELONA/Kayaking\ and\ Snorkeling\ in\ Costa\ Brava\ ADVENTURE.jpg");
 
 }
 .adventuresImg3{
-    background-image: url("./assets/BARCELONA/Paragliding\ Over\ Montserrat\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Paragliding\ Over\ Montserrat\ ADVEN.jpg");
 
 }
 .adventuresImg4{
-    background-image: url("./assets/BARCELONA/Cycling\ Tours\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Cycling\ Tours\ ADVEN.jpg");
 
 }
 .adventuresImg5{
-    background-image: url("./assets/BARCELONA/Kayaking\ in\ the\ Mediterranean\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Kayaking\ in\ the\ Mediterranean\ ADVEN.jpg");
 
 }
 .adventuresImg6{
-    background-image: url("./assets/BARCELONA/Hiking\ in\ Collserola\ Natural\ Park\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Hiking\ in\ Collserola\ Natural\ Park\ ADVEN.jpg");
 
 }
 .adventuresImg7{
-    background-image: url("./assets/BARCELONA/Hot\ Air\ Balloon\ Rides\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Hot\ Air\ Balloon\ Rides\ ADVEN.jpg");
 
 }
 .adventuresImg8{
-    background-image: url("./assets/BARCELONA/Surfing\ at\ Barceloneta\ Beach\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Surfing\ at\ Barceloneta\ Beach\ ADVEN.jpg");
 
 }
 .adventuresImg9{
-    background-image: url("./assets/BARCELONA/Indoor\ Skydiving\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Indoor\ Skydiving\ ADVEN.jpg");
 
 }
 .adventuresImg10{
-    background-image: url("./assets/BARCELONA/Escape\ Rooms\ ADVEN.jpg");
+    background-image: url("./BARCELONA/Escape\ Rooms\ ADVEN.jpg");
 }
