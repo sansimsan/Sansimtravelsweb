@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/SINGAPORE/SINGAPORE.jpg");
+    background-image: url("./SINGAPORE/SINGAPORE.jpg");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/SINGAPORE/Marina\ Bay\ Sands\ SINGAPORE.jpg');
+    background-image: url('./SINGAPORE/Marina\ Bay\ Sands\ SINGAPORE.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/SINGAPORE/Gardens\ by\ the\ Bay\ SINGAPORE.jpg');
+    background-image: url('./SINGAPORE/Gardens\ by\ the\ Bay\ SINGAPORE.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/SINGAPORE/Sentosa\ Island\ SINGAPORE.jpg');
+    background-image: url('./SINGAPORE/Sentosa\ Island\ SINGAPORE.jpg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/SINGAPORE/National\ Gallery\ Singapore\ \ SINGAPORE.jpg");
+    background-image: url("./SINGAPORE/National\ Gallery\ Singapore\ \ SINGAPORE.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/SINGAPORE/Marina\ Bay\ Sands\ \ HOTEL.jpg");
+    background-image: url("./SINGAPORE/Marina\ Bay\ Sands\ \ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/SINGAPORE/Raffles\ Singapore\ \ HOTEL.jpg");
+    background-image: url("./SINGAPORE/Raffles\ Singapore\ \ HOTEL.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/SINGAPORE/he\ Fullerton\ Hotel\ Singapore\ \ HOTEL.jpg");
+    background-image: url("./SINGAPORE/he\ Fullerton\ Hotel\ Singapore\ \ HOTEL.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/SINGAPORE/Capella\ Singapore\ HOTEL.jpg");
+    background-image: url("./SINGAPORE/Capella\ Singapore\ HOTEL.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -212,43 +212,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/SINGAPORE/Hainanese\ Chicken\ Rice\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Hainanese\ Chicken\ Rice\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/SINGAPORE/Chili\ Crab\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Chili\ Crab\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/SINGAPORE/Laksa\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Laksa\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/SINGAPORE/Char\ Kway\ Teow\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Char\ Kway\ Teow\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/SINGAPORE/Satay\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Satay\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/SINGAPORE/Nasi\ Lemak\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Nasi\ Lemak\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/SINGAPORE/Bak\ Kut\ Teh\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Bak\ Kut\ Teh\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/SINGAPORE/Roti\ Prata\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Roti\ Prata\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/SINGAPORE/Popiah\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Popiah\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/SINGAPORE/Kaya\ Toast\ CUISINE.jpg");
+    background-image: url("./SINGAPORE/Kaya\ Toast\ CUISINE.jpg");
     background-size: cover;
 }
 
@@ -286,37 +286,37 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/SINGAPORE/Night\ Safari\ \ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Night\ Safari\ \ ADVENTURE.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/SINGAPORE/AJ\ Hackett\ Sentosa\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/AJ\ Hackett\ Sentosa\ ADVENTURE.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/SINGAPORE/Indoor\ Skydiving\ at\ iFly\ Singapore\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Indoor\ Skydiving\ at\ iFly\ Singapore\ ADVENTURE.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/SINGAPORE/Forest\ Adventure\ at\ Bedok\ Reservoir\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Forest\ Adventure\ at\ Bedok\ Reservoir\ ADVENTURE.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/SINGAPORE/Cycling\ Along\ East\ Coast\ Park\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Cycling\ Along\ East\ Coast\ Park\ ADVENTURE.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/SINGAPORE/Kayaking\ and\ Stand-Up\ Paddleboarding\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Kayaking\ and\ Stand-Up\ Paddleboarding\ ADVENTURE.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/SINGAPORE/Hiking\ MacRitchie\ Reservoir\ and\ TreeTop\ Walk\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Hiking\ MacRitchie\ Reservoir\ and\ TreeTop\ Walk\ ADVENTURE.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/SINGAPORE/Mega\ Adventure\ Park\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Mega\ Adventure\ Park\ ADVENTURE.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/SINGAPORE/Scuba\ Diving\ at\ Sisters’\ Islands\ Marine\ Park\ ADVENTURE.jpg");
+    background-image: url("./SINGAPORE/Scuba\ Diving\ at\ Sisters’\ Islands\ Marine\ Park\ ADVENTURE.jpg");
 }
 
 .adventuresImg10{
