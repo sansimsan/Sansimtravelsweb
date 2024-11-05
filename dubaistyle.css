@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/DUBAI/DUBAI.jpg");
+    background-image: url("./DUBAI/DUBAI.jpg");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/DUBAI/Dubai\ Miracle\ Garden\ DUBAI.jpg');
+    background-image: url('./DUBAI/Dubai\ Miracle\ Garden\ DUBAI.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/DUBAI/BURJ\ KHALIFA\ DUBAI.jpg');
+    background-image: url('./DUBAI/BURJ\ KHALIFA\ DUBAI.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/DUBAI/DUBAI\ MALL.jpg');
+    background-image: url('./DUBAI/DUBAI\ MALL.jpg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/DUBAI/Palm\ Jumeirah\ DUBAI.jpg");
+    background-image: url("./DUBAI/Palm\ Jumeirah\ DUBAI.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/DUBAI/Burj\ Al\ Arab\ Jumeirah\ HOTEL.jpg");
+    background-image: url("./DUBAI/Burj\ Al\ Arab\ Jumeirah\ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/DUBAI/Atlantis\,\ The\ Palm\ HOTEL.jpg");
+    background-image: url("./DUBAI/Atlantis\,\ The\ Palm\ HOTEL.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/DUBAI/Armani\ Hotel\ Dubai\ HOTEL.jpg");
+    background-image: url("./DUBAI/Armani\ Hotel\ Dubai\ HOTEL.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/DUBAI/One\ and\ only\ the\ palm\ dubai.jpg");
+    background-image: url("./DUBAI/One\ and\ only\ the\ palm\ dubai.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -212,43 +212,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/DUBAI/Emirati\ Cuisine.jpg");
+    background-image: url("./DUBAI/Emirati\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/DUBAI/Middle\ Eastern\ Cuisine.jpg");
+    background-image: url("./DUBAI/Middle\ Eastern\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/DUBAI/Indian\ CUISINE.jpg");
+    background-image: url("./DUBAI/Indian\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/DUBAI/Pakistani\ Cuisine.jpg");
+    background-image: url("./DUBAI/Pakistani\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/DUBAI/Iranian\ CUISINE.jpg");
+    background-image: url("./DUBAI/Iranian\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/DUBAI/Asian\ Cuisine.jpg");
+    background-image: url("./DUBAI/Asian\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/DUBAI/Lebanese\ Cuisine.jpg");
+    background-image: url("./DUBAI/Lebanese\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/DUBAI/Italian\ Cuisine.jpg");
+    background-image: url("./DUBAI/Italian\ Cuisine.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/DUBAI/American\ Fast\ Food\ CUISINE.jpg");
+    background-image: url("./DUBAI/American\ Fast\ Food\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/DUBAI/Desserts\ CUISINE.jpg");
+    background-image: url("./DUBAI/Desserts\ CUISINE.jpg");
     background-size: cover;
 }
 
@@ -286,39 +286,39 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/DUBAI/Desert\ Safari\ and\ Dune\ Bashing\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Desert\ Safari\ and\ Dune\ Bashing\ ADVENTURE.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/DUBAI/Skydiving\ Over\ the\ Palm\ Jumeirah\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Skydiving\ Over\ the\ Palm\ Jumeirah\ ADVENTURE.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/DUBAI/Sandboarding\ in\ the\ Desert\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Sandboarding\ in\ the\ Desert\ ADVENTURE.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/DUBAI/Hot\ Air\ Ballooning\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Hot\ Air\ Ballooning\ ADVENTURE.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/DUBAI/Jet\ Skiing\ and\ Flyboarding\ at\ JBR\ Beach\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Jet\ Skiing\ and\ Flyboarding\ at\ JBR\ Beach\ ADVENTURE.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/DUBAI/Helicopter\ Tour\ Over\ Dubai\ HOTEL.jpg");
+    background-image: url("./DUBAI/Helicopter\ Tour\ Over\ Dubai\ HOTEL.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/DUBAI/Mountain\ Biking\ and\ Hiking\ in\ Hatta\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Mountain\ Biking\ and\ Hiking\ in\ Hatta\ ADVENTURE.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/DUBAI/Scuba\ Diving\ and\ Snorkeling\ at\ Jumeirah\ Beach\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Scuba\ Diving\ and\ Snorkeling\ at\ Jumeirah\ Beach\ ADVENTURE.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/DUBAI/Ziplining\ at\ XLine\ Dubai\ Marina.jpg");
+    background-image: url("./DUBAI/Ziplining\ at\ XLine\ Dubai\ Marina.jpg");
 }
 
 .adventuresImg10{
-    background-image: url("./assets/DUBAI/Seaplane\ Tour\ Over\ Dubai\ ADVENTURE.jpg");
+    background-image: url("./DUBAI/Seaplane\ Tour\ Over\ Dubai\ ADVENTURE.jpg");
 }
