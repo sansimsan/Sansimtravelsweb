@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/AMSTERDAM/Amsterdam.jpg");
+    background-image: url("./AMSTERDAM/Amsterdam.jpg");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/AMSTERDAM/Rijksmuseum\ AMSTERDAM.jpg');
+    background-image: url('./AMSTERDAM/Rijksmuseum\ AMSTERDAM.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/AMSTERDAM/Van\ Gogh\ Museum\ AMSTERDAM.jpg');
+    background-image: url('./AMSTERDAM/Van\ Gogh\ Museum\ AMSTERDAM.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/AMSTERDAM/Anne\ Frank\ House\ AMSTERDAM.jpg');
+    background-image: url('./AMSTERDAM/Anne\ Frank\ House\ AMSTERDAM.jpg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/AMSTERDAM/Canal\ Ring\ \(Grachtengordel\)\ AMSTERDAM.jpg");
+    background-image: url("./AMSTERDAM/Canal\ Ring\ \(Grachtengordel\)\ AMSTERDAM.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/AMSTERDAM/Hotel\ Pulitzer\ HOTEL.jpg");
+    background-image: url("./AMSTERDAM/Hotel\ Pulitzer\ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/AMSTERDAM/The\ Dylan\ Amsterdam\ HOTEL.jpg");
+    background-image: url("./AMSTERDAM/The\ Dylan\ Amsterdam\ HOTEL.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/AMSTERDAM/onservatorium\ Hotel\ \ HOTEL.jpg");
+    background-image: url("./AMSTERDAM/onservatorium\ Hotel\ \ HOTEL.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/AMSTERDAM/Andaz\ Amsterdam\ Prinsengracht\ HOTEL.jpg");
+    background-image: url("./AMSTERDAM/Andaz\ Amsterdam\ Prinsengracht\ HOTEL.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -179,7 +179,7 @@ body{
 
 
 .CuisinesCarousel{
-    background-image: url("./assets/wallpaper22.jpg");
+    background-image: url("./wallpaper22.jpg");
     background-size:cover;
     height: 50vh;
     display: flex;
@@ -213,48 +213,48 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/AMSTERDAM/Stroopwafel\ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Stroopwafel\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/AMSTERDAM/Bitterballen\ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Bitterballen\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/AMSTERDAM/Poffertjes\ \ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Poffertjes\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/AMSTERDAM/Haring\ \(Dutch\ Herring\)\ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Haring\ \(Dutch\ Herring\)\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/AMSTERDAM/Kibbeling\ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Kibbeling\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/AMSTERDAM/Patatje\ Oorlog\ \ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Patatje\ Oorlog\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/AMSTERDAM/Rookworst\ \ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Rookworst\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/AMSTERDAM/Stamppot\ \ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Stamppot\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/AMSTERDAM/Kaassoufflé\ \ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Kaassoufflé\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/AMSTERDAM/Oliebollen\ \ CUISINE.jpg");
+    background-image: url("./AMSTERDAM/Oliebollen\ \ CUISINE.jpg");
     background-size: cover;
 }
 
 .adventuresCarousel{
-    background-image: url("./assets/wallpaper\ travel1.jpg");
+    background-image: url("./wallpaper\ travel1.jpg");
     height: 50vh;
     display: flex;
     overflow-x: scroll;
@@ -287,39 +287,39 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/AMSTERDAM/Canal\ Biking\ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/Canal\ Biking\ ADVEN.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/AMSTERDAM/A’dam\ Lookout\ and\ Over\ The\ Edge\ Swing\ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/A’dam\ Lookout\ and\ Over\ The\ Edge\ Swing\ ADVEN.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/AMSTERDAM/Indoor\ Skiing\ at\ SnowWorld\ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/Indoor\ Skiing\ at\ SnowWorld\ ADVEN.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/AMSTERDAM/ycling\ to\ the\ Dutch\ Countryside\ \ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/ycling\ to\ the\ Dutch\ Countryside\ \ ADVEN.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/AMSTERDAM/RIB\ Boat\ Tours\ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/RIB\ Boat\ Tours\ ADVEN.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/AMSTERDAM/Ziplining\ at\ Fun\ Forest\ Amsterdam\ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/Ziplining\ at\ Fun\ Forest\ Amsterdam\ ADVEN.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/AMSTERDAM/Bungee\ Jumping\ in\ Scheveningen\ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/Bungee\ Jumping\ in\ Scheveningen\ ADVEN.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/AMSTERDAM/Explore\ the\ Red\ Light\ District\ with\ a\ Local\ Guide\ \ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/Explore\ the\ Red\ Light\ District\ with\ a\ Local\ Guide\ \ ADVEN.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/AMSTERDAM/Stand-Up\ Paddleboarding\ \(SUP\)\ in\ the\ Canals\ \ ADVEN.jpg");
+    background-image: url("./AMSTERDAM/Stand-Up\ Paddleboarding\ \(SUP\)\ in\ the\ Canals\ \ ADVEN.jpg");
 }
 
 .adventuresImg10{
-    background-image: url("./assets/AMSTERDAM/Hot\ air\ balloon\ over\ countryside.jpg");
+    background-image: url("./AMSTERDAM/Hot\ air\ balloon\ over\ countryside.jpg");
 }
