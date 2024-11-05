@@ -8,7 +8,7 @@ body{
 }
 
 .cityIntro{
-    background-image: url("./assets/MUMBAI/MUMBAI.jpg");
+    background-image: url("./MUMBAI/MUMBAI.jpg");
     background-size: cover;
     height: 100vh;
     margin-bottom: 650px;
@@ -98,31 +98,31 @@ body{
 }
 
 .attractionsOpts1{
-    background-image: url('./assets/MUMBAI/Gateway\ of\ India\ MUMBAI.jpg');
+    background-image: url('./MUMBAI/Gateway\ of\ India\ MUMBAI.jpg');
 }
 
 .attractionsOpts2{
-    background-image: url('./assets/MUMBAI/Marine\ Drive\ MUMBAI.jpg');
+    background-image: url('./MUMBAI/Marine\ Drive\ MUMBAI.jpg');
 }
 
 .attractionsOpts3{
-    background-image: url('./assets/MUMBAI/Chhatrapati\ Shivaji\ Terminus\ MUMBAI.jpg');
+    background-image: url('./MUMBAI/Chhatrapati\ Shivaji\ Terminus\ MUMBAI.jpg');
 }
 
 .attractionsOpts4{
-    background-image: url("./assets/MUMBAI/Elephanta\ Caves\ MUMBAI.jpg");
+    background-image: url("./MUMBAI/Elephanta\ Caves\ MUMBAI.jpg");
 }
 .hotelOpts1{
-    background-image: url("./assets/MUMBAI/Taj\ Mahal\ Palace\ HOTEL.jpg");
+    background-image: url("./MUMBAI/Taj\ Mahal\ Palace\ HOTEL.jpg");
 }
 .hotelOpts2{
-    background-image: url("./assets/MUMBAI/The\ Oberoi\,\ Mumbai\ HOTEL.jpg");
+    background-image: url("./MUMBAI/The\ Oberoi\,\ Mumbai\ HOTEL.jpg");
 }
 .hotelOpts3{
-    background-image: url("./assets/MUMBAI/JW\ Marriott\ Mumbai\ Juhu\ HOTEL.jpg");
+    background-image: url("./MUMBAI/JW\ Marriott\ Mumbai\ Juhu\ HOTEL.jpg");
 }
 .hotelOpts4{
-    background-image: url("./assets/MUMBAI/The\ St.\ Regis\ Mumbai\ \ HOTEL.jpg");
+    background-image: url("./MUMBAI/The\ St.\ Regis\ Mumbai\ \ HOTEL.jpg");
 }
 
 
@@ -152,7 +152,7 @@ body{
 }
 
 .restaurantsInfo{
-    background-image: url("./assets/RestaurantCommentBoxFinal.jpg");
+    background-image: url("./RestaurantCommentBoxFinal.jpg");
     background-size:contain;
     width: 70%;
     margin-left: 20px;
@@ -212,43 +212,43 @@ body{
 }
 
 .cuisinesImg1{
-    background-image: url("./assets/MUMBAI/Vada\ Pav\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Vada\ Pav\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg2{
-    background-image: url("./assets/MUMBAI/Pav\ Bhaji\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Pav\ Bhaji\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg3{
-    background-image: url("./assets/MUMBAI/Bhel\ Puri\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Bhel\ Puri\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg4{
-    background-image: url("./assets/MUMBAI/Sev\ Puri\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Sev\ Puri\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg5{
-    background-image: url("./assets/MUMBAI/Bombay\ Sandwich\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Bombay\ Sandwich\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg6{
-    background-image: url("./assets/MUMBAI/Misal\ Pav\ CUCISINE.jpg");
+    background-image: url("./MUMBAI/Misal\ Pav\ CUCISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg7{
-    background-image: url("./assets/MUMBAI/Keema\ Pav\ \ CUISINE.jpg");
+    background-image: url("./MUMBAI/Keema\ Pav\ \ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg8{
-    background-image: url("./assets/MUMBAI/Pani\ Puri\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Pani\ Puri\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg9{
-    background-image: url("./assets/MUMBAI/Batata\ Vada\ CUISINE.jpg");
+    background-image: url("./MUMBAI/Batata\ Vada\ CUISINE.jpg");
     background-size: cover;
 }
 .cuisinesImg10{
-    background-image: url("./assets/MUMBAI/Bombil\ Fry\ CUISSINE.jpg");
+    background-image: url("./MUMBAI/Bombil\ Fry\ CUISSINE.jpg");
     background-size: cover;
 }
 
@@ -286,39 +286,39 @@ body{
 }
 
 .adventuresImg1{
-    background-image: url("./assets/MUMBAI/Visit\ the\ Elephanta\ Caves\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Visit\ the\ Elephanta\ Caves\ ADVEN.jpg");
 }
 .adventuresImg2{
-    background-image: url("./assets/MUMBAI/Paragliding\ in\ Kamshet\ \ ADVEN.jpg");
+    background-image: url("./MUMBAI/Paragliding\ in\ Kamshet\ \ ADVEN.jpg");
 }
 
 .adventuresImg3{
-    background-image: url("./assets/MUMBAI/Trekking\ at\ Fort\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Trekking\ at\ Fort\ ADVEN.jpg");
 }
 
 .adventuresImg4{
-    background-image: url("./assets/MUMBAI/Water\ Sports\ at\ Alibaug\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Water\ Sports\ at\ Alibaug\ ADVEN.jpg");
 }
 .adventuresImg5{
-    background-image: url("./assets/MUMBAI/Cycling\ Tours\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Cycling\ Tours\ ADVEN.jpg");
 }
 
 .adventuresImg6{
-    background-image: url("./assets/MUMBAI/Camping\ in\ Aamby\ Valley\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Camping\ in\ Aamby\ Valley\ ADVEN.jpg");
 }
 
 .adventuresImg7{
-    background-image: url("./assets/MUMBAI/Hot\ Air\ Balloon\ Ride\ \ ADVEN.jpg");
+    background-image: url("./MUMBAI/Hot\ Air\ Balloon\ Ride\ \ ADVEN.jpg");
 }
 
 .adventuresImg8{
-    background-image: url("./assets/MUMBAI/Rock\ climbing\ at\ vihar\ lake\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Rock\ climbing\ at\ vihar\ lake\ ADVEN.jpg");
 }
 
 .adventuresImg9{
-    background-image: url("./assets/MUMBAI/Scuba\ Diving\ in\ Murud\ ADVEN.jpeg");
+    background-image: url("./MUMBAI/Scuba\ Diving\ in\ Murud\ ADVEN.jpeg");
 }
 
 .adventuresImg10{
-    background-image: url("./assets/MUMBAI/Night\ Trekking\ to\ Kalsubai\ ADVEN.jpg");
+    background-image: url("./MUMBAI/Night\ Trekking\ to\ Kalsubai\ ADVEN.jpg");
 }
